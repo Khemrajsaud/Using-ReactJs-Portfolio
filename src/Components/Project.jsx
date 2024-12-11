@@ -50,9 +50,8 @@ const Project = () => {
                            ))} 
                          
                         </motion.div>
-                   
-                    
-                </div>
+                        
+                              </div>
             ))}     
         </div>
       
